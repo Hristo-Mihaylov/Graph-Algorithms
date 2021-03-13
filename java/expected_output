@@ -1,0 +1,113 @@
+Total = 0km
+LOG: relaxed 66355 edges
+
+MAN to YVR (7337km)
+YVR to SYD (12501km)
+Total = 19838km
+LOG: relaxed 6291 edges
+
+MAN to MUC (1130km)
+Total = 1130km
+LOG: relaxed 38 edges
+
+MAN to PHL (5512km)
+PHL to ROA (499km)
+Total = 6011km
+LOG: relaxed 10782 edges
+
+TTA to CMN (644km)
+CMN to BRU (2183km)
+BRU to MAN (536km)
+Total = 3363km
+LOG: relaxed 353 edges
+
+No route from MAN to TTA
+LOG: relaxed 66355 edges
+
+Total = 0km
+LOG: relaxed 597807 edges
+
+MAN to HEL (1812km)
+HEL to HKG (7810km)
+HKG to SYD (7394km)
+Total = 17016km
+LOG: relaxed 597807 edges
+
+MAN to MUC (1130km)
+Total = 1130km
+LOG: relaxed 597807 edges
+
+MAN to EWR (5383km)
+EWR to IAD (341km)
+IAD to ROA (285km)
+Total = 6009km
+LOG: relaxed 597807 edges
+
+TTA to CMN (644km)
+CMN to MAD (867km)
+MAD to MAN (1436km)
+Total = 2947km
+LOG: relaxed 531384 edges
+
+No route from MAN to TTA
+LOG: relaxed 597807 edges
+
+Total = 0km
+LOG: relaxed 0 edges
+
+MAN to HEL (1812km)
+HEL to HKG (7810km)
+HKG to SYD (7394km)
+Total = 17016km
+LOG: relaxed 65691 edges
+
+MAN to MUC (1130km)
+Total = 1130km
+LOG: relaxed 8519 edges
+
+MAN to EWR (5383km)
+EWR to IAD (341km)
+IAD to ROA (285km)
+Total = 6009km
+LOG: relaxed 30224 edges
+
+TTA to CMN (644km)
+CMN to MAD (867km)
+MAD to MAN (1436km)
+Total = 2947km
+LOG: relaxed 11453 edges
+
+No route from MAN to TTA
+LOG: relaxed 66355 edges
+
+Total = 0km
+LOG: relaxed 0 edges
+
+MAN to HEL (1812km)
+HEL to HKG (7810km)
+HKG to SYD (7394km)
+Total = 17016km
+LOG: relaxed 1896 edges
+
+MAN to MUC (1130km)
+Total = 1130km
+LOG: relaxed 315 edges
+
+MAN to EWR (5383km)
+EWR to IAD (341km)
+IAD to ROA (285km)
+Total = 6009km
+LOG: relaxed 779 edges
+
+TTA to CMN (644km)
+CMN to MAD (867km)
+MAD to MAN (1436km)
+Total = 2947km
+LOG: relaxed 585 edges
+
+No route from MAN to TTA
+LOG: relaxed 66355 edges
+
+3145 airports reachable from MAN
+3145 airports reachable from SYD
+3146 airports reachable from TTA
